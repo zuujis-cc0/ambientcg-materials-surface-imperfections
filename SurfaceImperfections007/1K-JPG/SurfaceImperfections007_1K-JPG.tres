@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="acg_extvrnq5"]
+
+[ext_resource type="Texture2D" uid="uid://acg_6achgs0u" id="Color" path="./SurfaceImperfections007_1K-JPG_Color.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_r9jey4ab" id="NormalGL" path="./SurfaceImperfections007_1K-JPG_NormalGL.jpg"]
+[resource]
+albedo_texture = ExtResource("Color")
+normal_texture = ExtResource("NormalGL")
+normal_enabled = true
